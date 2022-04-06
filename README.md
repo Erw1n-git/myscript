@@ -1,5 +1,7 @@
 # myscript
-This is my test bash script for kali linux
 
+Description:
 This script was created to practise my bash scripting skill.
 
+Installation:
+sudo bash ./makefile.sh
